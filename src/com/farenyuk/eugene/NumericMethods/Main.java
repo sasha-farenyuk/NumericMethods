@@ -5,9 +5,12 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
         Pi();
-        // compInt();
+        // \\compInt();
+        // dec15 1817
+        // dec15 1824
+        // dec15 1919
     }
-        public static void Pi(){
+        private static void Pi(){
             double Pi = 0;
             int j = 1;
             for(int i=0; i<=100; i++){
